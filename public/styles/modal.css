@@ -84,3 +84,32 @@
 #modal form button:hover {
     background-color: #2fb85e;
 }
+
+/* Isto é para o modal do point-created */
+
+#modal.point .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.point h1 {
+    color: white;
+    margin-top: 32px;
+}
+
+#modal.point-error .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.point-error img {
+    height: 50px;
+    width: 50px;
+}
+
+#modal.point-error h1 {
+    color: white;
+    margin-top: 32px;
+}
