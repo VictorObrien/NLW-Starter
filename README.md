@@ -30,6 +30,8 @@ O **Ecoleta** é um projeto (aplicação web) construído no **Starter**, parte 
 
 A aplicação basea-se em um marketplace de coleta de resíduos, onde pessoas físicas e/ou jurídicas poderão cadastrar e/ou encontrar pontos de coleta em qualquer lugar do Brasil.
 
+
+
 ## :rocket: Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
@@ -40,31 +42,45 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Nunjucks;](https://mozilla.github.io/nunjucks/)
 - [SQLite.](https://www.sqlite.org/index.html)
 
-Baseado nas API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet) e [Estados IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados)
+Utilizou também as API's de Localidade [Cidades IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet) e [Estados IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados)
+
+
 
 ## :bookmark: Layout
 
 Para acessar o layout desse projeto, acesso o [Figma](https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=1%3A8)
 
+
+
 ## :ledger: Aula 1
 Foi trabalhado os primeiros conceitos de HTML e CSS, muito utilizado no front-end;
 ![first_and_second_steps](/github-images/01-HOME.png)
+
+
 
 ## :ledger: Aula 2
 Ainda trabalhando com HTML, CSS e inserindo JS, aprendemos a buscar cidades e estados (dados) utilizando a API do IBGE e trazendo-os para a aplicação;
 ![aula2](/github-images/02-CREATE-POINT.png)
 
+
+
 ## :ledger: Aula 3
 Continuou-se trabalhando os conceitos de HTML, CSS e JS de uma maneira mais aprofundada e encerrou-se a aula em 3 etapas concluidas;
 ![aula3](/github-images/04-AULA03.png)
+
+
 
 ## :ledger: Aula 4
 Na aula 4, foi dia de começar a entender na prática como funciona o back-end. Conhecemos o node.js e criamos nosso servidor;
 ![aula4](/github-images/05-AULA04.png)
 
+
+
 ## :ledger: Aula 5
 E para finalizar o projeto, importamos a dependência do SQLite para nossa aplicação e fizemos toda a configuração do db (banco de dados).
 ![aula5](/github-images/06-AULA05.png)
+
+
 
 ## :clipboard: Aplicação Adicional
 Na última aula foi lançado o desafio de inserir uma página que informaria ao usuário caso ocorresse algum erro na submissão do cadastro.
@@ -73,9 +89,12 @@ Realizada a inserção dessa página de erro e também de a função de retornar
 ![adicional](/github-images/07-APLICACAO-ADICIONAL.png)
 
 
+
 ## :mortar_board: Quem ministrou as aulas?
 
 As aulas foram ministradas pelo [Mayk Brito](https://github.com/maykbrito) da [Rocketseat](https://rocketseat.com.br/)
+
+
 
 ## :memo: Envie seu comentário!  
 
